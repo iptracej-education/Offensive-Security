@@ -8,5 +8,6 @@ Offsec
 - OSCP Certified
 
 Hack the box (on-hold due to other things busy)
-- Status: Professional Hacker 
-- CTF ranking 110/7390 in open beta III 
+- Status: 112 system pwned
+- CTF ranking 110/7390 in open beta III
+- AI-ML Challenge developer
